@@ -1,0 +1,11 @@
+{
+    "title": "タイトルを記入",
+    "author": "著者を記入",
+    "gitbook": ">= 3.0.0",
+    "plugins": [
+        "-sharing",
+        "splitter",
+        "collapsible-menu",
+        "creativecommons"
+    ]
+}
