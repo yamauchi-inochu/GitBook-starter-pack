@@ -1,5 +1,7 @@
 # GitBook-starter-pack
 GitBook-starter-pack(試験版)は、node.jsの環境下で利用してください。
+> [node.jsの公式サイト](https://nodejs.org/en/)からインストーラを利用するのが早いです。
+> Macの場合は、Homebrew,Nodebrewを等駆使するとインストール、バージョン管理ができます。
 
 ## 使い方
 ### パッケージのインストール
@@ -22,7 +24,7 @@ GitBook-starter-packのフォルダ内にある、book.js, README.md, SUMMARY.md
 
 * book.js (コンテンツのタイトルや著者を記載)
 * README.md (ページの紹介等を記載)
-* SUMMARY.md（GitBook形式に変換する.mdのパスを記載）
+* SUMMARY.md（GitBook形式に変換する.mdのパスを記載）:メニューの折りたたみには、を使用
 
 ### GitBookコマンドの実行
 
