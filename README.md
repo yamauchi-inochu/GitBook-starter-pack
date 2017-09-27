@@ -22,9 +22,9 @@ npm i
 ### Buildするファイルの準備
 GitBook-starter-packのフォルダ内にある、book.js, README.md, SUMMARY.mdを開き確認する。
 
-* book.js (コンテンツのタイトルや著者を記載)
+* book.js (コンテンツのタイトルや著者を記載、プラグインを設定する)
 * README.md (ページの紹介等を記載)
-* SUMMARY.md（GitBook形式に変換する.mdのパスを記載）:メニューの折りたたみには、を使用
+* SUMMARY.md（GitBook形式に変換する.mdのパスを記載）:メニューの折りたたみには、gitbook-plugin-collapsible-menuを使用
 
 ### GitBookコマンドの実行
 
@@ -36,6 +36,6 @@ npm run build
 npm start
 
 ```
-
-
+### 参考
+GitBook-starter-packは、[GISオープン教材（試験公開版）© GIS-OER WG CC BY-SA 4.0](https://github.com/gis-oer)を参考に作成した。
 
